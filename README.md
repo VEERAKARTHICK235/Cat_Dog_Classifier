@@ -11,19 +11,7 @@ Real-time Classification: Get predictions quickly after uploading an image.
 Confidence Score: Displays the predicted class (e.g., "tabby cat", "golden retriever") along with a confidence percentage.
 
 Pre-trained Model: Uses the MobileNetV2 model, pre-trained on the ImageNet dataset, for robust image recognition.
-
-## 📁 Project Structure
-cat-dog-classifier/
-├── app.py                  
-├── requirements.txt        
-├── templates/
-│   └── index.html          
-├── static/
-│   ├── css/
-│   │   └── style.css       
-│   └── js
-│       └── script.js       
-└── README.md 
+ 
 
 ## 🛠️ Technologies Used
 Python 3.x: The core language for the backend logic.
